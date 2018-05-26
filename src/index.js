@@ -1,3 +1,4 @@
-import { EwMultipleComponentValue } from './components/ewmultiplecomponentvalue/ewmultiplecomponentvalue';
+import EwMultipleComponentValue from '../components/ewmultiplecomponentvalue/ewmultiplecomponentvalue';
+
 
 export default EwMultipleComponentValue;

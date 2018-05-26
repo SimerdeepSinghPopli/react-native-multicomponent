@@ -19,7 +19,7 @@
     "url": "https://github.com/Simerdeep/react-native-multicomponent/issues"
   },
   "dependencies": {
-    "native-base": "^2.4.5",
+    "native-base": "^2.4.5"
   },
   
   "homepage": "https://github.com/Simerdeep/react-native-multicomponent#readme"
