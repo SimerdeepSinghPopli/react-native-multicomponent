@@ -24,3 +24,4 @@ A `<EwMultipleComponentValue>` component for React Native to add and delete a co
 ### Component demo
 
 <img src = './demo.gif' />
+<img src = './demo-delete.gif' />
