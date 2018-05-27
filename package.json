@@ -1,6 +1,6 @@
 {
   "name": "multicomponent",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "To add and delete a component multiple times",
   "main": "src/index.js",
   "scripts": {
